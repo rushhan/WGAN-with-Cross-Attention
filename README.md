@@ -7,7 +7,7 @@ Project to get attention from discriminator: 1st modification
 
 
 ## Execute
-python main.py --dataset lsun --dataroot /workspace/lsun --cuda --clamp --fdbac--save_dir samples_no_clamp 
+python main.py --dataset lsun --dataroot /workspace/lsun --cuda --clamp --fdbac--save_dir samples
 
 ## Notes
 Need the lsun data.
