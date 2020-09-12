@@ -14,7 +14,8 @@ Need the lsun data.
 Follow the instruction in original implementation [link](https://github.com/martinarjovsky/WassersteinGAN)
 
 ## Sources
-WGAN Model based on original paper [link](https://arxiv.org/abs/1701.07875)
+WGAN Model based on original paper [link](https://arxiv.org/abs/1701.07875).
+
 Cross Attention is my own implementation
 
 
